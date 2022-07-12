@@ -1,0 +1,51 @@
+,Anonymized_email,IP_address,Domain_name,Severity,Operating_System,Payload_Name,Payload_Hash,Type_of_cyberattack,Origin_of_Attack,System_affected,System_affected
+0,FGhjKuda480@,41.215.62.18,kcb.bak.ac.ke,High,Windows,Kadusus.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B13,Malware,China,Flexicube,Flexicube
+1,JDKjKuda480@,41.215.13.218,anex.ac.ke,High,Windows,Emotet,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B12,Phishing,North Korea,Bankers Realm,Bankers Realm
+2,DAGDjKuda$WS,41.206.60.6,aba.ac.ke,High,Windows,Ransomware as a service,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B11,Trojan,Russia,Flexicube,Flexicube
+3,FYUKuda*234,41.215.24.94,gom.ac.ke,Medium,Windows,Cobalt strike,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B10,Ransomware,Iran,Bankers Realm,Bankers Realm
+4,LHJjKuda67@,41.220.112.78,bgs.ac.ke,Medium,Linux,heter.msi,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B9,Worm ,USA,Flexicube,Flexicube
+5,ETjKuda#TETY6,217.21.125.178,equty.ac.ke,Medium,Linux,Unknown_rat.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B8,Malware,China,Flexicube,Flexicube
+6,UHhjKuda480@,41.220.114.10,mastercad.ac.ke,Low,Linux,frix.exe,6a8401448a5bd2b540850f811b20a66d,Phishing,North Korea,Flexicube,Flexicube
+7,ETRKuda480@,41.215.11.254,jewils.ac.ke,Low,Linux,harp.exe,9f01d4442c495c7128649b98201187bc0c58dedd,Trojan,Russia,Flexicube,Flexicube
+8,LIKTGjKuda480@,41.206.60.6,sba.bank.ac.ke,Low,Linux,web.msi,6d26f82c627c896665720938288888d1fdd3e763ab75cb8683a7e678815d0e43a38bc5960b6294af9f8f35f94a3e65b5,Ransomware,Iran,Bankers Realm,Bankers Realm
+9,QEERKuda480@,62.24.122.37,jumlabank.ac.ke,Low,Linux,firefod.exe,16795249a3ad364b036463bf50c4d32fa40a6719ec42e4f986ac581d3777f879,Worm ,USA,Flexicube,Flexicube
+10,HJKLjKuda480@,196.207.28.58,ummabank.ac.ke,High,Linux,matter.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B3,Malware,China,Flexicube,Flexicube
+11,LIOjKuda480@,41.212.88.64,ahadi.ac.ke,High,Linux,upload.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B2,Phishing,North Korea,Flexicube,Flexicube
+12,ASGhjKuda480@,41.220.122.154,linda.ac.ke,High,Windows,dll.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B1,Trojan,Russia,Bankers Realm,Bankers Realm
+13,LUhjKuda480@,41.215.28.162,batch.ac.ke,High,Windows,mirai.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B0,Ransomware,Iran,Flexicube,Flexicube
+14,WASEDFHJuda480@,41.212.30.226,boresha.ac.ke,High,Windows,elf.msi,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B1,Worm ,USA,Flexicube,Flexicube
+15,IIRWEuda480@,41.215.9.246,galaxy.ac.ke,High,Windows,intl.msi,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B2,Virus,China,Bankers Realm,Bankers Realm
+16,azsFGER!8ET,196.202.202.45,mwalimu.saco.com,High,Linux,harm.msi,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B3,DDos,North Korea,Bankers Realm,Bankers Realm
+17,"L,KUMHJTYRG*965",41.212.80.176,cornerbank.com,Medium,Windows,arm.frg,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B4,DOS,Russia,Flexicube,Flexicube
+18,OUKdydfk345#,41.212.10.136,sda.co.ke,Low,Linux,hdg.frm,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B5,DOS,Iran,Bankers Realm,Bankers Realm
+19,UIYJHEuda0@789,41.212.107.170,stanbik.co.ke,High,Windows,kanot.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B6,Virus,USA,Bankers Realm,Bankers Realm
+20,LOIRfgwse%56,41.204.161.16,ahadi.ac.ke,Medium,Linux,fork.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B7,DDos,China,Bankers Realm,Bankers Realm
+21,Iugtjfa@,196.200.16.88,lindamama.com,High,Windows,bomobo.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B8,DOS,North Korea,Flexicube,Flexicube
+22,kkftreQGR&890,196.200.34.43,coperatice.co.keHigh,Low,Linux,new.exe,481EAE82AC4CD1A9CFADC026A628B18D7B4C54F50385D28C505FBCB3E999B8B9,Virus,Russia,Bankers Realm,Bankers Realm
+23,,,,,,,,,,,
+24,,,,,,,,,,,
+25,,,,,,,,,,,
+26,,,,,,,,,,,
+27,,,,,,,,,,,
+28,,,,,,,,,,,
+29,,,,,,,,,,,
+30,,,,,,,,,,,
+31,,,,,,,,,,,
+32,,,,,,,,,,,
+33,,,,,,,,,,,
+34,,,,,,,,,,,
+35,,,,,,,,,,,
+36,,,,,,,,,,,
+37,,,,,,,,,,,
+38,,,,,,,,,,,
+39,,,,,,,,,,,
+40,,,,,,,,,,,
+41,,,,,,,,,,,
+42,,,,,,,,,,,
+43,,,,,,,,,,,
+44,,,,,,,,,,,
+45,,,,,,,,,,,
+46,,,,,,,,,,,
+47,,,,,,,,,,,
+48,,,,,,,,,,,
+49,,,,,,,,,,,
